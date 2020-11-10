@@ -26,6 +26,5 @@ mysql_query("INSERT INTO Persons(FirstName,LastName,Age) VALUES('Alex','Li','18'
 
 mysql_query($sql,$con);
   mysql_close($con);
-// some code
 
 ?>
